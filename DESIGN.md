@@ -9,7 +9,7 @@ The signature `COMPOSITE` shell combines dark graphite surfaces, phosphor green 
 Visual modes are token-based: `COMPOSITE`, `CRT`, `RECEIPT`, `NIGHT VISION`, and `1-BIT`. The `VISUAL FX` setting changes shell decoration only. Reduced-motion users receive the same functionality without scanline and transition emphasis.
 
 ## Color system
-
+ 
 | Token | Role | Default |
 | --- | --- | --- |
 | `--bg` | graphite application background | `#101413` |
